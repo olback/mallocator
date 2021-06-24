@@ -3,6 +3,8 @@ name = "mallocator"
 version = "0.1.0"
 authors = ["Edwin Svensson <mallocator@olback.net>"]
 edition = "2018"
+repository = "https://github.com/olback/mallocator"
+homepage = "https://github.com/olback/mallocator"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
