@@ -3,8 +3,13 @@ name = "mallocator"
 version = "0.1.0"
 authors = ["Edwin Svensson <mallocator@olback.net>"]
 edition = "2018"
+description = "Use malloc() and free() for memory management in Rust."
 repository = "https://github.com/olback/mallocator"
 homepage = "https://github.com/olback/mallocator"
+readme = "README.md"
+keywords = [ "ffi", "c", "embedded", ]
+categories = [ "no-std", "embedded" ]
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
